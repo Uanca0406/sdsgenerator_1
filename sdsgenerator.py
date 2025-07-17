@@ -1,3 +1,11 @@
+import streamlit as st
+import pandas as pd
+
+import streamlit.components.v1 as components
+
+components.html (
+    "<p><span style='text-decoration: line-through double red;'>Oops</span>!</p>"
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -470,3 +478,4 @@
     </script>
 </body>
 </html>
+)
